@@ -121,7 +121,7 @@ export default {
 						boxShadow: 'var(--shadow-glow)'
 					},
 					'50%': {
-						boxShadow: '0 0 40px hsl(0 84% 60% / 0.5)'
+						boxShadow: '0 0 40px hsl(var(--primary) / 0.5)'
 					}
 				}
 			},

@@ -158,7 +158,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="text-center mt-16 pt-8 border-t border-primary/20">
           <p className="text-muted-foreground flex items-center justify-center gap-1">
-            Built with <Heart className="w-4 h-4 text-red-500" /> by Vikram Biradar
+            Built with <Heart className="w-4 h-4 text-primary fill-primary" /> by Vikram Biradar
           </p>
         </div>
       </div>
